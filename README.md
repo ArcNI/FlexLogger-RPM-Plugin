@@ -8,3 +8,6 @@ The software used to develop this plugin:
 2. FlexLogger Plugin Development Kit 1.3
 
 Please read the User Documentation File to understand how to use the plugin
+
+a. The Built libraries are present under the folder RPM Plugin
+b. The Source code is present under the folder RPM Plugin Source Code
